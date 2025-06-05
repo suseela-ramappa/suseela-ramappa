@@ -37,7 +37,7 @@
 - 🎯 **E-Learn** – A full-featured e-learning platform with quizzes, progress tracking, and admin panel.  
 - 📌 **TaskTrack** – A task manager app with animated UI and complete CRUD functionality.
 - http://task-track.infinityfreeapp.com/dashboard.php
-- ✨ **TravelGo** – A travel booking system with admin tour management and Razorpay integration.  
+- ✨ **TravelGo** – A travel booking system with user and admin tour management
 - 💼 **Personal Portfolio** – (https://suseela-portafolio.netlify.app/)
 
 ---
