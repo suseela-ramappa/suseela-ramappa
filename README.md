@@ -12,7 +12,7 @@
 - 📫 How to reach me:  
   📧 suseelaramappa@gmail.com  
   📱 +91 8688291832  
-  🌍 [Portfolio](https://suseelaportafolio.netlify.app) | [LinkedIn](https://www.linkedin.com/in/suseela-ramappa/)  
+  🌍 [Portfolio](https://suseela-portafolio.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/suseela-ramappa/)  
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: I turned my passion for design into a working e-learning platform using **PHP, MySQL, HTML, CSS, and JavaScript**!
 
